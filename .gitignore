@@ -2,7 +2,7 @@
 ### Node template
 # Logs
 logs
-*.log
+#*.log
 npm-debug.log*
 
 # Runtime data
@@ -30,3 +30,4 @@ build/Release
 node_modules
 
 .idea
+data
